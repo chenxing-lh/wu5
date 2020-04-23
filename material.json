@@ -1,20 +1,37 @@
 {
-    "name": "wu5",
-    "title": "wu5",
-    "description": "",
-    "repository": {
-        "url": "https://github.com/chenxing-lh/wu5.git",
-        "private": 1,
-        "auth": {
-            "username": "381606250@qq.com",
-            "password": "jrI4q2mgnN3AriA2EBXOoEyTeYJVeQL9rs/P3BGkCofI+TfNwleSkiC2S2fqGGWQMGraVL8gHOjJ8i5JIz0Bqw=="
-        }
-    },
-    "map": {
-        "components": [],
-        "blocks": [],
-        "pages": [],
-        "templates": []
-    },
-    "materialId": 209
+	"name": "wu5",
+	"title": "wu5",
+	"description": "",
+	"repository": {
+		"url": "https://github.com/chenxing-lh/wu5.git",
+		"private": 1,
+		"auth": {
+			"username": "381606250@qq.com",
+			"password": "jrI4q2mgnN3AriA2EBXOoEyTeYJVeQL9rs/P3BGkCofI+TfNwleSkiC2S2fqGGWQMGraVL8gHOjJ8i5JIz0Bqw=="
+		}
+	},
+	"map": {
+		"components": [],
+		"blocks": [],
+		"pages": [],
+		"templates": [
+			{
+				"name": "weixin",
+				"version": "1.0.0",
+				"title": "微信",
+				"description": "惺惺惜惺惺",
+				"type": "template",
+				"platform": [
+					"PC"
+				],
+				"homePage": "/materials/209/dist104577d908b6790815cecafc37d48748/index.html",
+				"category": "管理后台",
+				"screenshot": "/screenshots/104577d908b6790815cecafc37d48748.png",
+				"path": "templates/Weixin",
+				"origin": "https://github.com/chenxing-lh/wu5.git",
+				"hash": "104577d908b6790815cecafc37d48748"
+			}
+		]
+	},
+	"materialId": 209
 }
