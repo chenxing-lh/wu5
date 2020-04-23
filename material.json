@@ -12,7 +12,24 @@
 	},
 	"map": {
 		"components": [],
-		"blocks": [],
+		"blocks": [
+			{
+				"name": "web-qukuai",
+				"version": "1.0.0",
+				"title": "web 区块",
+				"description": "哈哈哈哈",
+				"type": "block",
+				"platform": [
+					"PC"
+				],
+				"homePage": "/materials/209/dist8454fe4600b378ce2704874a08d8e4d5/index.html",
+				"category": "信息展示",
+				"screenshot": "/screenshots/8454fe4600b378ce2704874a08d8e4d5.png",
+				"path": "blocks/WebQukuai",
+				"origin": "https://github.com/chenxing-lh/wu5.git",
+				"hash": "8454fe4600b378ce2704874a08d8e4d5"
+			}
+		],
 		"pages": [],
 		"templates": [
 			{
