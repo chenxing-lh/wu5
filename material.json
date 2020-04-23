@@ -1,0 +1,20 @@
+{
+    "name": "wu5",
+    "title": "wu5",
+    "description": "",
+    "repository": {
+        "url": "https://github.com/chenxing-lh/wu5.git",
+        "private": 1,
+        "auth": {
+            "username": "381606250@qq.com",
+            "password": "jrI4q2mgnN3AriA2EBXOoEyTeYJVeQL9rs/P3BGkCofI+TfNwleSkiC2S2fqGGWQMGraVL8gHOjJ8i5JIz0Bqw=="
+        }
+    },
+    "map": {
+        "components": [],
+        "blocks": [],
+        "pages": [],
+        "templates": []
+    },
+    "materialId": 209
+}
